@@ -10,7 +10,7 @@ have not been tested.
 
 Clone the repository and install requirements:
 
-    git clone ...
+    git clone git@github.com:curtmerrill/cmgfx.git
     cd cmgfx
     npm i
 
