@@ -1,0 +1,10 @@
+/* override body from cmcss */
+body {
+    display: block;
+    min-height: unset;
+    border-top: 0;
+}
+
+body > *:first-child {
+    margin-block-start: 0;
+}
